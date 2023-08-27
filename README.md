@@ -16,3 +16,6 @@ This connects to an FTP Server provided by a webhosting company to generate a we
 3. It would then ask for the deeplink - paste it in there (Windows - right click to paste in CMD)
 4. It would generate a URL, you can copy (right click to copy on Windows) and send it
 5. You can press enter to close.
+
+# Screenshots
+![Screenshot of invite page](https://cdn.discordapp.com/attachments/1074335734112194612/1145175393544974417/image.png)
