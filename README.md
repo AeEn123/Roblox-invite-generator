@@ -3,7 +3,7 @@ This allows you to create clickable invite pages using a roblox deeplink.
 I recommend using [bloxstrap](https://github.com/pizzaboxer/bloxstrap) to get a roblox deeplink.
 
 # What does this do?
-This connects to an FTP Server provided by a webhosting company to generate a webpage from a roblox deeplink - this allows you to make clickable invite links.
+This connects to an FTP Server provided by a webhosting company to generate a webpage from a roblox deeplink - this allows you to make clickable invite links. <br>
 ⚠ I have only tested this on [InfinityFree](https://www.infinityfree.com/) so bugs may happen if you are using a different hosting provider.
 
 # Installation
